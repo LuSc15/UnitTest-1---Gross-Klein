@@ -18,7 +18,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\UnitTest 1 - Gross-Klein.csproj" />
-    <ProjectReference Include="..\UnitTest 1 - Gross-Klein\UnitTest 1 - Gross-Klein.csproj" />
   </ItemGroup>
 
   <ItemGroup>
